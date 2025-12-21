@@ -17,7 +17,7 @@ PhD in theoretical physics specializing in **computational many-body methods** (
 
 - Maintaining and developing many-body methods and generic Julia packages in the open-source organization [ManyBodyLab](https://www.manybodylab.com/):
   - Infinite tensor-network algorithms (e.g. iDMRG, MPO-compression) based on [ITensors.jl](https://github.com/ITensor/ITensors.jl)
-  - MPI-parallelized tensor-network algorithms in [MPSKitParallel.jl](https://github.com/AFeuerpfeil/MPSKitParallel.jl)
+  - MPI-parallelized tensor-network algorithms in [MPSKitParallel.jl](https://github.com/ManyBodyLab/MPSKitParallel.jl)
   - High-performance exact diagonalization tools
   - Monte Carlo for quantum many-body systems using [Carlo.jl](https://github.com/lukas-weber/Carlo.jl)
 - Designing modular backends to support multiple tensor-network libraries, improving flexibility and reuse across projects and reducing duplication in downstream codes.
