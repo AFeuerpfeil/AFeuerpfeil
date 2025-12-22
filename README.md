@@ -33,7 +33,7 @@ PhD in theoretical physics specializing in **computational many-body methods** (
 
 ### Get in touch
 
-- Email: [andreas.feuerpfeil@uni-wuerzburg.de](mailto:andreas.feuerpfeil@uni-wuerzburg.de)
+- Email: [andreas.feuerpfeil@manybodylab.com](mailto:andreas.feuerpfeil@manybodylab.com)
 - Open-source / packages: [development@manybodylab.com](mailto:development@manybodylab.com)
 - GitHub: [https://github.com/AFeuerpfeil](https://github.com/AFeuerpfeil)
 - Website: [https://www.manybodylab.com/](https://www.manybodylab.com/)
