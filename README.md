@@ -9,7 +9,7 @@ PhD in theoretical physics specializing in **computational many-body methods** (
 
 ### Skills
 
-- Languages and tools: Julia, Python, Linux, HPC/MPI, Git
+- Languages and tools: Julia, Python, C++, SQL, Linux, HPC/MPI, Git
 - Methods: Tensor networks (MPS/iMPS), exact diagonalization, Monte Carlo for quantum many-body systems
 - Strengths: Numerical optimization, algorithm design, scientific software architecture, open-source collaboration
 
