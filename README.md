@@ -5,15 +5,16 @@ PhD student in theoretical physics specializing in **computational many-body met
 ### About me
 
 - Researcher at the University of Würzburg working on moiré materials and strongly correlated electrons using tensor-network and Monte Carlo methods.
-- Interested in software development at the intersection of physics, software engineering, and quantitative finance, especially where numerical modeling, HPC, and rigorous data-driven decision making matter.
+- Interested in software development at the intersection of computational physics, scientific software engineering, and quantitative modeling-especially where numerical methods, HPC, and rigorous, data-driven decisions matter.”
 
 ### What I'm currently working on
 
-- Maintaining and developing many-body methods and generic Julia packages in the open-source organization [ManyBodyLab](https://github.com/ManyBodyLab) [manybodylab.com](https://www.manybodylab.com/):
-  - Infinite tensor-network algorithms (e.g. iDMRG, MPO-compression) based on [ITensors.jl](https://github.com/ITensor/ITensors.jl)
+- Maintaining and developing many-body methods and generic Julia packages in the open-source organization [ManyBodyLab](https://github.com/ManyBodyLab):
+  - Infinite tensor-network algorithms (e.g. iDMRG, MPO-compression) based on [ITensors.jl](https://github.com/ITensor/ITensors.jl) and [TensorKit.jl](https://github.com/QuantumKitHub/TensorKit.jl)
   - MPI-parallelized tensor-network algorithms in [MPSKitParallel.jl](https://github.com/ManyBodyLab/MPSKitParallel.jl)
-  - High-performance exact diagonalization tools in [DiagHamInterface.jl](https://github.com/ManyBodyLab/DiagHamInterface.jl)
+  - High-performance exact diagonalization tools in native Julia as well as in [DiagHamInterface.jl](https://github.com/ManyBodyLab/DiagHamInterface.jl)
   - Allocation-free Monte Carlo algorithms for quantum many-body systems in [WaveMC.jl](https://github.com/ManyBodyLab/WaveMC.jl) (based on the [Carlo.jl](https://github.com/lukas-weber/Carlo.jl) framework)
+  - and many more ([MPILargeCounts.jl](https://github.com/ManyBodyLab/MPILargeCounts.jl), [PeriodicArrays.jl](https://github.com/ManyBodyLab/PeriodicArrays.jl), ...)
 - Designing modular backends to support multiple tensor-network libraries, improving flexibility and reuse across projects and reducing duplication in downstream codes.
   - [TensorKitAdapters.jl](https://github.com/ManyBodyLab/TensorKitAdapters.jl) & [MPSKitAdapters.jl](https://github.com/ManyBodyLab/MPSKitAdapters.jl)
 - Contributing to [MPSKit.jl](https://github.com/QuantumKitHub/MPSKit.jl), abstracting code and improving performance and maintainability.
